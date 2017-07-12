@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../../Screendy/Screendy Versions/screendy.twix.coreV7.1.0" value="4360608950000" />
+        <entry key="$PROJECT_DIR$/../../../../../Screendy/core/screendy.twix.core" value="4385599746000" />
+        <entry key="$PROJECT_DIR$/../../../../../Screendy/corebajji/screendy.twix.core" value="4387201488000" />
+        <entry key="$PROJECT_DIR$/../../../../../Screendy/screedyWorK/FullscreenVideoView" value="7273371380000" />
+        <entry key="$PROJECT_DIR$/../../../../../Screendy/screedyWorK/screendy.twix.core" value="4379586723000" />
+        <entry key="$PROJECT_DIR$/../../../../../Screendy/screedyWork/screendy.twix.core" value="4360662766000" />
+        <entry key="$PROJECT_DIR$/../../../../../Screendy/screendy.twix.core" value="4381949928000" />
+        <entry key="$PROJECT_DIR$/../../../../../ScreendyCoreAndroid/screendy.twix.core" value="4387359801000" />
+        <entry key="$PROJECT_DIR$/../../../../../ScreendyCoreDynamic/screendy.twix.core" value="4383190833000" />
+        <entry key="$PROJECT_DIR$/../../../../../coreDynamic/screendy.twix.core" value="4385041608000" />
+        <entry key="$PROJECT_DIR$/../../../../../screendy.twix.core" value="4384745244000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
